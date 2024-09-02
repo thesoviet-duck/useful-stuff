@@ -9,4 +9,4 @@ Hello it's me @thesoviet-duck, The rules for this repo are:<br />
 
 
 Also here is some more information: https://www.youtube.com/watch?v=dQw4w9WgXcQ 
-And check out my simple games at: https://github.com/Not-Noot-Noot/Simple-Games-in-Python
+And check out my simple games at: https://github.com/thesoviet-duck/Simple-Games-in-Python
