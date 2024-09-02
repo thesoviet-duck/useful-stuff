@@ -1,4 +1,4 @@
-Hello it's me @Not-Noot-Noot, The rules for this repo are very complicated:<br />
+Hello it's me @thesoviet-duck, The rules for this repo are:<br />
 <br />
 1- Rule one, you can use my code I don't mind :D <br />
 2- Rule two credit me if you want it's not necessary<br />
